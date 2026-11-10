@@ -1,4 +1,4 @@
 # github-demo
 This is my first github repository.
 <br>
-Author- Ojita Katiyar
+Author- Ojita Katiyar(PSIT)
